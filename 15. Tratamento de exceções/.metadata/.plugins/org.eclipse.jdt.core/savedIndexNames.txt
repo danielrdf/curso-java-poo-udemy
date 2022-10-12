@@ -1,6 +1,7 @@
 INDEX VERSION 1.131+/Users/danielfonseca/Documents/CURSOS E TUTORIAIS/Ûdemy/curso-java-poo-udemy/15. Tratamento de exceções/.metadata/.plugins/org.eclipse.jdt.core
+1502907650.index
 3748477814.index
 2251099875.index
-65536272.index
 1865797976.index
-1502907650.index
+4174676298.index
+65536272.index
