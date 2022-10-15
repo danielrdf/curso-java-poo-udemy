@@ -54,7 +54,7 @@ public class Program {
 					bw.write(item.getName() + "," + String.format("%.2f", item.total()));
 					bw.newLine();
 				}
-				System.out.println(targetFileStr + "CREATED");
+				System.out.println(targetFileStr + " CREATED");
 				
 			}
 			catch (IOException e) {
