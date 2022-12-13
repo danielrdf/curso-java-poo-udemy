@@ -3,7 +3,7 @@ package entities;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class Installment { // Parcela
+public class Installment { // Installment = parcela
 	
 	private static DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 	

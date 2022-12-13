@@ -19,6 +19,4 @@ public class Vehicle {
 		this.model = model;
 	}
 	
-	
-	
 }

@@ -51,6 +51,4 @@ public class CarRental {
 		this.invoice = invoice;
 	}
 
-	
-	
 }
