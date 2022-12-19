@@ -11,7 +11,7 @@ public class CalculationService {
 		T max = list.get(0);
 		for (T item : list) {
 			if (item.compareTo(max) > 0) {
-				max = item;
+				max = item; 
 			}
 		}
 		return max;
